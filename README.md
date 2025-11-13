@@ -24,18 +24,7 @@ Il programma è composto da un unico file sorgente **`main.c`** che contiene:
 - le funzioni operative per la gestione dei dati  
 - il menu principale di interazione con l’utente  
 
-### 🧩 Struttura `Libro`
-Ogni libro è rappresentato da una struttura con i seguenti campi:
-
-typedef struct {
-    char titolo[100];
-    char autore[100];
-    char editore[50];
-    int anno;
-    char isbn[20];
-} Libro;
-
 ---
 
-###📜 Licenza
+## 📜 Licenza
 Questo progetto è distribuito per scopi didattici e formativi.
