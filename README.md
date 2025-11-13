@@ -27,7 +27,6 @@ Il programma è composto da un unico file sorgente **`main.c`** che contiene:
 ### 🧩 Struttura `Libro`
 Ogni libro è rappresentato da una struttura con i seguenti campi:
 
-```c
 typedef struct {
     char titolo[100];
     char autore[100];
@@ -35,3 +34,8 @@ typedef struct {
     int anno;
     char isbn[20];
 } Libro;
+
+---
+
+📜 Licenza
+Questo progetto è distribuito per scopi didattici e formativi.
