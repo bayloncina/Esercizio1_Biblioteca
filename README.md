@@ -37,5 +37,5 @@ typedef struct {
 
 ---
 
-📜 Licenza
+###📜 Licenza
 Questo progetto è distribuito per scopi didattici e formativi.
